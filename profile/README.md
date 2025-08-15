@@ -1,7 +1,7 @@
 # Just Another Optimization Mod (JAOM)
 
-**Concept Creator:** Peter Hunt  
-**Developers:** Peter Hunt, csdad, Jumper222  
+**Concept Creator:** PeterHunt  
+**Developers:** PeterHunt, csdad, Jumper222  
 
 ---
 
@@ -19,4 +19,4 @@
 ---
 
 ## License
-This project is released under the MIT license.
+This project is released under the CC BY 4.0 license.
